@@ -1,5 +1,7 @@
 # OxRSE Continuous Integration course
 
+![CI](https://github.com/simonlichtinger/ci-course/workflows/CI/badge.svg)
+
 This project contains a small Python project. We are going to use free cloud services to automate:
 
 - unit testing on multiple Python versions
