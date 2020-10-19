@@ -12,9 +12,6 @@ Welcome to CI Course's documentation!
 
    :doc:`Quickstart <./quickstart>` 
 
-.. automodule:: ci_course
-   :members:
-
 Hello World!
 
 Indices and tables
