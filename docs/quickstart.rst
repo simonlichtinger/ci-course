@@ -1,0 +1,4 @@
+Quickstart
+==========
+
+Example quickstart
